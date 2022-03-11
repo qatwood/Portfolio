@@ -1,4 +1,4 @@
-# Data Mining of Artificial Pancreas Medical Data
+# Data Wrangling of Artificial Pancreas Medical Data
 ## Project Description
 A project done as part of CSE 572 - Data Mining 
 
