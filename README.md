@@ -3,13 +3,15 @@
 A project done as part of CSE 572 - Data Mining 
 
 Created a machine learning model that performs classification on data extracted from an Artificial Pancreas Medical Control System. 
-Utilized data wrangling and mining tools (feature extraction, cleaning, balancing, pruning) to prepare data to be used for machine learning. Classification distinguished between two types of data in the dataset (meal and no meal data). The two datasets used contain 55,000 entry points and 40,000.
+Utilized data wrangling and mining tools (cleaning, balancing, pruning and feature extraction) to prepare data for machine learning. Classification distinguish two types of data in the dataset (meal and no meal data). The two datasets used contain 55,000 entry points and 40,000.
 
 ## Models implemented
 Supervised Learning: 
-Decision Tree Classifier
-Logistic Regression
-Random Forest Classifier.
+- Decision Tree Classifier
+- K Neighbors
+- Logistic Regression
+- Random Forest Classifier
+- Gradient Boosting Classifier
 
 ## Technology Used
-Python (pandas, scikit-learn)
+Python (pandas, scikit-learn, matplotlib)
