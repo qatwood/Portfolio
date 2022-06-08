@@ -1,5 +1,24 @@
 # Data Wrangling of Artificial Pancreas Medical Data
 ## Project Description
+<!--- 
+in the united states, no of people with diabetes...
+
+most diabetes patients have to regualry take insulin in the form of injection
+
+a medical advanced was found, that relies heavily on data science tools.
+
+this device called an artificial pancreas automate the process.. improving quality of life..
+
+in this project, i attempt to train a machine model that...
+
+the data was provided by asu..
+
+result was..
+
+conclusions...
+
+references
+--->
 A project done as part of CSE 572 - Data Mining 
 
 Created a machine learning model that performs classification on data extracted from an Artificial Pancreas Medical Control System. 
