@@ -1,21 +1,14 @@
 
 <!--- 
-what ever i learned in cse 511
+### Build a movie recommendation database using PostgresSQL.
+### Perform SQL queries then Query processing using Python.
 
-Build a movie recommendation database using PostgresSQL.
+### Dataset
 The input data is a Movie Rating dataset collected from the MovieLens web site
 ( http://movielens.org )
 
-Query data from the database using SQL.
-
 Assignment 3-5
-Parallel sort
-
-
-
-
-
-
+Parallel sort and Parallel Join
 
 
 more sql projects
