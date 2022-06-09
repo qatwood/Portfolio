@@ -1,5 +1,4 @@
 # Data Wrangling of Artificial Pancreas Medical Data
-## Project Description
 
 # Intro In the United States, about 1.6 million Americans live with Type 1 Diabetes. Type 1 Diabetes is an autoimmune disease that affects insulin production in the pancreas. 
 
