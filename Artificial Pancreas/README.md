@@ -1,4 +1,4 @@
-### Intro 
+### Introduction:
 In the United States, about 1.6 million Americans live with Type 1 Diabetes. Type 1 Diabetes is an autoimmune disease that affects insulin production in the pancreas. 
 
 A healthy pancreas controls insulin production automatically, therfore controlling the blood sugar levels in the body. People living with Type 1 Diabetes have pancreas that fails to perform this function, leaving them having to continuously watch out for every bite of food they eat and exercises they do to keep blood sugar levels at the proper level.
@@ -40,4 +40,3 @@ Data pruning
 Machine learning
 Cluster validation
 Supervised learning
-
