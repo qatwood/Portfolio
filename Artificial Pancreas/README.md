@@ -7,6 +7,10 @@ This means using finger pricks to measure blood-sugar levels, ideally 6 six time
 
 Before the medical advance of an "artificial pancreas", insulin delivery was performed in the form of needle injection following a manual calculation of the amount required. Artificial pancreas have automated this process by utilizing data science to measure blood glucose level in the body and perform timed delivery of insulin, improving quality of life of its users.
 
+
+![alt text](https://github.com/qatwood/Portfolio/blob/Artificial Pancreas/minimed.jpeg?raw=true)
+
+
 In this project, I use Python (pandas, scikit-learn, matplotlib) to extract features from the dataset and perform supervised and unsupervised machine learning.
 
 <!--- 
@@ -44,3 +48,5 @@ AMA
 Barnard C. The artificial pancreas: Potential to transform diabetes care. diabetes.medicinematters.com. https://diabetes.medicinematters.com/artificial-pancreas-systems/the-artificial-pancreas-potential-to-transform-diabetes-care/12111508. Published March 3, 2017. Accessed June 9, 2022. 
 
 Type 1 Diabetes Facts. https://www.jdrf.org/t1d-resources/about/facts/. Accessed June 9, 2022.
+
+MiniMed™ 670G: Insulin Pump System. https://www.medtronic.com/us-en/healthcare-professionals/products/diabetes/insulin-pump-systems/minimed-670g.html. Accessed June 9, 2022.
