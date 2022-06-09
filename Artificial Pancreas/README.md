@@ -8,7 +8,7 @@ This means using finger pricks to measure blood-sugar levels, ideally 6 six time
 Before the medical advance of an "artificial pancreas", insulin delivery was performed in the form of needle injection following a manual calculation of the amount required. Artificial pancreas have automated this process by utilizing data science to measure blood glucose level in the body and perform timed delivery of insulin, improving quality of life of its users.
 
 
-![alt text](https://github.com/qatwood/Portfolio/blob/Artificial Pancreas/minimed.jpeg?raw=true)
+![Screenshot](minimed.jpeg)
 
 
 In this project, I use Python (pandas, scikit-learn, matplotlib) to extract features from the dataset and perform supervised and unsupervised machine learning.
