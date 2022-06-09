@@ -3,11 +3,11 @@
 <!--- 
 In the United States, about 1.6 million Americans live with Type 1 Diabetes. Type 1 Diabetes is an autoimmune disease that affects insulin production in the pancreas. 
 
-A healthy pancreas controls insulin production automatically, therfore controlling the blood sugar levels in the body. People living with Type 1 Diabetes have to continuously watch out for every bite of food and exercise they do to keep blood sugar levels at the proper level.
+A healthy pancreas controls insulin production automatically, therfore controlling the blood sugar levels in the body. People living with Type 1 Diabetes have pancreas that fails to perform this function, leaving them having to continuously watch out for every bite of food and exercise they do to keep blood sugar levels at the proper level.
 
 This means using finger pricks to measure blood-sugar levels, ideally 6 six times a day or more, then carefully balancing insulin intake with eating and activities. It requires a very strict regimen. Even amongst the most disciplined, people with type 1 diabetes still experience dangerously high or low blood-glucose levels that can be life threatening.
 
-Before the medical advance of an "artificial pancreas", insulin delivery was performed in the form of needle injection following manual calculations of the amount required. Artificial pancreas have automated this process by using data science to detect and measure blood glucose level in the body and timed delivery of insulin, improving quality of life of its users.
+Before the medical advance of an "artificial pancreas", insulin delivery was performed in the form of needle injection following a manual calculation of the amount required. Artificial pancreas have automated this process by using data science to measure blood glucose level in the body and perform timed delivery of insulin, improving quality of life of its users.
 
 In this project, I use data science tools.... 
 to extract features from the data set, perform supervised and unsupervised machine learning.
