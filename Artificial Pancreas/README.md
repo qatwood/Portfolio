@@ -31,13 +31,13 @@ Supervised Learning:
 - Gradient Boosting Classifier
 
 ### Techniques 
-Data mining
-Data wrangling
-Data cleaning
-Data pruning
-Machine learning
-Cluster validation
-Supervised learning
+Data mining,
+Data wrangling,
+Data cleaning,
+Data pruning,
+Machine learning,
+Cluster validation,
+Supervised learning,
 
 ### References
 AMA
