@@ -18,6 +18,11 @@ result was..
 conclusions...
 
 references
+
+AMA
+Barnard C. The artificial pancreas: Potential to transform diabetes care. diabetes.medicinematters.com. https://diabetes.medicinematters.com/artificial-pancreas-systems/the-artificial-pancreas-potential-to-transform-diabetes-care/12111508. Published March 3, 2017. Accessed June 9, 2022. 
+
+
 --->
 A project done as part of CSE 572 - Data Mining 
 
