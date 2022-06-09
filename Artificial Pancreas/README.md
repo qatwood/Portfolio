@@ -37,7 +37,7 @@ Data cleaning,
 Data pruning,
 Machine learning,
 Cluster validation,
-Supervised learning,
+Supervised learning
 
 ### References
 AMA
