@@ -1,6 +1,6 @@
-# Data Wrangling of Artificial Pancreas Medical Data
+## Data Wrangling of Artificial Pancreas Medical Data
 
-# Intro In the United States, about 1.6 million Americans live with Type 1 Diabetes. Type 1 Diabetes is an autoimmune disease that affects insulin production in the pancreas. 
+## Intro In the United States, about 1.6 million Americans live with Type 1 Diabetes. Type 1 Diabetes is an autoimmune disease that affects insulin production in the pancreas. 
 
 A healthy pancreas controls insulin production automatically, therfore controlling the blood sugar levels in the body. People living with Type 1 Diabetes have pancreas that fails to perform this function, leaving them having to continuously watch out for every bite of food they eat and exercises they do to keep blood sugar levels at the proper level.
 
@@ -10,7 +10,7 @@ Before the medical advance of an "artificial pancreas", insulin delivery was per
 
 In this project, I use Python (pandas, scikit-learn, matplotlib) to extract features from the dataset and perform supervised and unsupervised machine learning.
 
-# The dataset:
+## The dataset:
 Two csv files extracted from an Artificial Pancreas Medical Control System. They contain 55,000 and 40,000 entry points.
 
 <!--- 
@@ -19,13 +19,13 @@ result was..
 
 conclusions...
 --->
-# References: 
+## References: 
 AMA
 Barnard C. The artificial pancreas: Potential to transform diabetes care. diabetes.medicinematters.com. https://diabetes.medicinematters.com/artificial-pancreas-systems/the-artificial-pancreas-potential-to-transform-diabetes-care/12111508. Published March 3, 2017. Accessed June 9, 2022. 
 
 Type 1 Diabetes Facts. https://www.jdrf.org/t1d-resources/about/facts/. Accessed June 9, 2022.
 
-# Models implemented
+## Models implemented
 Supervised Learning: 
 - Decision Tree Classifier
 - K Neighbors
@@ -33,7 +33,7 @@ Supervised Learning:
 - Random Forest Classifier
 - Gradient Boosting Classifier
 
-# Techniques 
+## Techniques 
 Data mining
 Data wrangling
 Data cleaning
