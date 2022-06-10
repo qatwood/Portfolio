@@ -16,5 +16,8 @@ https://hackr.io/blog/best-sql-projects
 do daily
 
 
+PyCharm
+Java virtual machine
+
 
 --->
