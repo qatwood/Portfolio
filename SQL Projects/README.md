@@ -1,5 +1,5 @@
-Build a movie recommendation database using PostgresSQL.
-Perform SQL queries and Query processing using Python.
+#### Build a movie recommendation database using PostgresSQL.
+#### Perform SQL queries and Query processing using Python.
 
 Dataset:
 The input data is a Movie Rating dataset collected from the MovieLens web site
