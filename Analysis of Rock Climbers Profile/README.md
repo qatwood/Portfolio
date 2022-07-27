@@ -1,5 +1,5 @@
 In the climbing community, the debate of height, weight to ability has existed for a long time. 
-The chatter has increased even more so now with the rising number of the community.
+The chatter has increased even more so now with the expansion of the community.
 A few articles have discussed what many in the climbing community feels to be true: 
 It's a strength to weight ratio that favors people of average height.
 
